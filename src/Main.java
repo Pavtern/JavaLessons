@@ -1,4 +1,8 @@
+import com.pavtern.*;
+
 public class Main {
+    Car newCar;
+    Plane plane;
     public static void main(String[] args) {
         Main main = new Main();
         main.buyBread();
