@@ -1,3 +1,5 @@
+package Others;
+
 public class lesson7 {
     int age = 20;
 
