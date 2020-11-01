@@ -37,9 +37,7 @@ public class Switch {
                 else
                     numDays = 28;
                 break;
-            default:
-                System.out.println("Несуществующий месяц");
-                break;
+
         }
         System.out.println("Число дней = " + numDays);
     }

@@ -21,4 +21,5 @@ public class Puppy{
         Puppy myPuppy = new Puppy( "Багет" );
 
     }
+
 }

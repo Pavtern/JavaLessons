@@ -4,7 +4,7 @@ package ProgLang;
 public class IndexOf {
 
 
-    int[] n = {};
+    int[] n = {1,5,3,4,6};
 
     public static void main(String[] args) {
         IndexOf indexOf = new IndexOf();
