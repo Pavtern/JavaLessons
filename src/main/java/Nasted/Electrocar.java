@@ -1,6 +1,6 @@
 package Nasted;
 
-public class Electrocar {
+public class Electrocar{
     private class Motor{
         public void startMotor(){
             System.out.println("Motor " + id + " is starting");

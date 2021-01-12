@@ -1,12 +1,13 @@
 package Why;
 
-public class  GenericMethodTest {
+public class GenericMethod {
     // Общий метод printArray
     public static < E > void printArray( E[] inputArray ) {
         // Отображаем элементы массива
         for(E element : inputArray) {
             System.out.printf("%s ", element);
         }
+
         System.out.println();
     }
 

@@ -15,7 +15,11 @@ public class Exeptions1 {
                 System.out.println(scanner.nextLine());
             }
         } catch (FileNotFoundException e) {
+            System.exit(0);
             System.out.println("sdsdsd");
+        }
+        finally {
+            System.out.println("End");
         }
     }
 }
